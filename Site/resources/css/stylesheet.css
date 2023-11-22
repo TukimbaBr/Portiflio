@@ -1,0 +1,17 @@
+/* Oculta os controles padrão */
+    audio {
+      display: none;
+    }
+
+    /* Estiliza o botão personalizado */
+    .audio-custom-controls {
+      display: flex;
+      align-items: center;
+    }
+	
+	#img-play{
+		opacity: 1; /* Certifique-se de que a opacidade seja 1 para 100% de visibilidade */
+		filter: none; /* Remova qualquer filtro que possa afetar a transparência */
+}
+	}
+
